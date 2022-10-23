@@ -1,4 +1,6 @@
 bin 
 .vscode
 .settings
-
+.project
+.classpath
+*replit*
